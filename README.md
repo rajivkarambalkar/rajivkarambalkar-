@@ -24,7 +24,7 @@ When I'm not coding, you'll find me playing badminton 🏸, exploring new techno
 - **Email**: rajiv.karambalkar@gmail.com
 
 ## 📊 GitHub Stats
-![Your GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=rajivkarambalkar&show_icons=true&theme=radical))
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajivkarambalkar&show_icons=true&theme=radical)
 
 ## ✨ Fun Facts
 - My native place is Gadhinglaj, Kolhapur.
