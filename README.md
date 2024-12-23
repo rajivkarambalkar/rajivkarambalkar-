@@ -1,7 +1,9 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi there! I'm Rajiv Karambalkar, a passionate Software Engineer with a keen interest in designing efficient, scalable, and innovative solutions. Currently working as a Director of Application Development at ADP, I'm on a journey to become a Senior Director in the tech industry. When I'm not coding, you'll find me playing badminton 🏸, exploring Kolhapur 🇮🇳, or spending quality time with my family.
+Hi there! I'm Rajiv Karambalkar, a passionate Software Engineer with a keen interest in designing efficient, scalable, and innovative solutions. Currently working as a Director of Application Development at ADP. 
+
+When I'm not coding, you'll find me playing badminton 🏸, exploring new technologies,  or spending quality time with my family.
 
 ## 🔧 Skills & Expertise
 - **Languages**: Java, Angular, React, Go, Python, JavaScript
